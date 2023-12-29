@@ -10,3 +10,5 @@ Play Sudoku interactively.
 Instantly solve any valid Sudoku puzzle.
 
 This repository will propably be also refactored as i will try to refactor all my existing repositories after i have over one year of professional experience.
+
+Currently working on better GUI.
